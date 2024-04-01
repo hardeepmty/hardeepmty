@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm HARDEEP MOHANTY</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **Web Development and Python**
-
-- 🤝 I’m looking for help with **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hardeepmty](https://github.com/hardeepmty)
 
