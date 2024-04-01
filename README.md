@@ -4,7 +4,7 @@
 
 - 🔭 I’m working on **Full Stack Development**
 - 👯 I’m looking to collaborate on **full stack projects**
-- 🌱 I’m currently learning **DSA and pyhton basics**
+- 🌱 I’m currently learning **DSA and python basics**
 - 💬 Ask me about **React and NextJs**
 - 📫 How to reach me **mohanty4raj@gmail.com**
 - ⚡ Fun fact **I love taking pictures**
