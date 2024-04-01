@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hardeep Mohanty</h1>
 <h3 align="center">Crafting digital experiences, one line of code at a time.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardeepmty&label=Profile%20views&color=0e75b6&style=flat" alt="hardeepmty" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hardeepmty&label=Profile%20views&color=0e75b6&style=flat" alt="hardeepmty" /> </p>
 
 - 🔭 I’m working on **Full Stack Development**
 - 👯 I’m looking to collaborate on **full stack projects**
