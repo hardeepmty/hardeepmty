@@ -2,8 +2,6 @@
 <h3 align="center">Crafting digital experiences, one line of code at a time.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardeepmty&label=Profile%20views&color=0e75b6&style=flat" alt="hardeepmty" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardeepmty&theme=" alt="hardeepmty" /></a> </p>
-
 - 🔭 I’m working on **Full Stack Development**
 - 👯 I’m looking to collaborate on **full stack projects**
 - 🌱 I’m currently learning **DSA and pyhton basics**
