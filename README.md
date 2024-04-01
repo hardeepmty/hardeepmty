@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Web Development and Python**
+- 🌱 I’m learning **Web Development and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hardeepmty](https://github.com/hardeepmty)
 
