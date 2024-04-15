@@ -8,12 +8,13 @@
 
 </br>
 
-- 🔭 I’m working on **Full Stack Development**
-- 👯 I’m looking to collaborate on **full stack projects**
-- 🌱 I’m currently learning **DSA and python basics**
-- 💬 Ask me about **React and NextJs**
-- 📫 How to reach me **mohanty4raj@gmail.com**
-- ⚡ Fun fact **I love taking pictures**
+- <span style="font-size: 20px;">🔭</span> <span style="font-size: 18px;">I’m working on <b>Full Stack Development</b></span><br/>
+- <span style="font-size: 20px;">👯</span> <span style="font-size: 18px;">I’m looking to collaborate on <b>full stack projects</b></span><br/>
+- <span style="font-size: 20px;">🌱</span> <span style="font-size: 18px;">I’m currently learning <b>DSA and python basics</b></span><br/>
+- <span style="font-size: 20px;">💬</span> <span style="font-size: 18px;">Ask me about <b>React and NextJs</b></span><br/>
+- <span style="font-size: 20px;">📫</span> <span style="font-size: 18px;">How to reach me <b>mohanty4raj@gmail.com</b></span><br/>
+- <span style="font-size: 20px;">⚡</span> <span style="font-size: 18px;">Fun fact: <b>I love taking pictures</b></span><br/>
+
 <br/>
 <div> <a href="https://www.linkedin.com/in/Hardeep Mohanty" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/hardeepmty" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
