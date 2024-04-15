@@ -2,7 +2,9 @@
 <h3 align="center">Crafting digital experiences, one line of code at a time.</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hardeepmty&label=Profile%20views&color=0e75b6&style=flat" alt="hardeepmty" /> </p>
 
-![](https://github.com/hardeepmty/hardeepmty/blob/main/PNG.gif)
+<div align="center">
+  <img src="https://github.com/hardeepmty/hardeepmty/blob/main/PNG.gif" alt="Hardeep's GIF">
+</div>
 
 - 🔭 I’m working on **Full Stack Development**
 - 👯 I’m looking to collaborate on **full stack projects**
