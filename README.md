@@ -6,6 +6,8 @@
   <img src="https://github.com/hardeepmty/hardeepmty/blob/main/PNG.gif" alt="Hardeep's GIF">
 </div>
 
+</br>
+
 - 🔭 I’m working on **Full Stack Development**
 - 👯 I’m looking to collaborate on **full stack projects**
 - 🌱 I’m currently learning **DSA and python basics**
