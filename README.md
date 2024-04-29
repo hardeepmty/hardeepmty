@@ -3,7 +3,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hardeepmty&label=Profile%20views&color=0e75b6&style=flat" alt="hardeepmty" /> </p>
 
 <div align="center">
-  <img src="https://github.com/hardeepmty/hardeepmty/blob/main/PNG.gif" alt="Hardeep's GIF" width="600">
+  <img src="https://github.com/hardeepmty/hardeepmty/blob/main/PNG.gif" alt="Hardeep's GIF" width="700">
 </div>
 
 </br>
