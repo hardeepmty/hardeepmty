@@ -10,7 +10,7 @@
 
 - <span style="font-size: 20px;">🔭</span> <span style="font-size: 18px;">I’m working on <b>Full Stack Development</b></span><br/>
 - <span style="font-size: 20px;">👯</span> <span style="font-size: 18px;">I’m looking to collaborate on <b>full stack projects</b></span><br/>
-- <span style="font-size: 20px;">🌱</span> <span style="font-size: 18px;">I’m currently learning <b>DSA and python basics</b></span><br/>
+- <span style="font-size: 20px;">🌱</span> <span style="font-size: 18px;">I’m currently learning <b>DSA and DevOps</b></span><br/>
 - <span style="font-size: 20px;">💬</span> <span style="font-size: 18px;">Ask me about <b>React and NextJs</b></span><br/>
 - <span style="font-size: 20px;">📫</span> <span style="font-size: 18px;">How to reach me <b>mohanty4raj@gmail.com</b></span><br/>
 - <span style="font-size: 20px;">⚡</span> <span style="font-size: 18px;">Fun fact: <b>I love taking pictures</b></span><br/>
